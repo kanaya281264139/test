@@ -14,9 +14,147 @@
         {
           "name": "TDK SAMD Boards",
           "architecture": "samd",
+          "version": "0.0.1",
+          "category": "TDK",
+          "url": "file://C:/TDK-samd-0.0.1.tar.gz",
+          "archiveFileName": "TDK-samd-0.0.1.tar.gz",
+          "checksum": "SHA-256:4642B70F387F8C7DC3596787C8D3D5CBAF05F7A255A6F53E9A288E51A4F06FB3",
+          "size": "1186115",
+          "help": {
+            "online": "https://www.jp.tdk.com/corp/ja/contact/index.htm"
+          },
+          "boards": [
+            {
+              "name": "TDK Diamond Seeds"
+            }
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "TDK SAMD Boards",
+          "architecture": "samd",
+          "version": "0.0.2",
+          "category": "TDK",
+          "url": "file://C:/TDK-samd-0.0.2.tar.gz",
+          "archiveFileName": "TDK-samd-0.0.2.tar.gz",
+          "checksum": "SHA-256:83B7109CF68D37A2A094054AF9EA4927951BEA959E30954F7F1F13A0C81FF46A",
+          "size": "1186148",
+          "help": {
+            "online": "https://www.jp.tdk.com/corp/ja/contact/index.htm"
+          },
+          "boards": [
+            {
+              "name": "TDK Diamond Seeds"
+            }
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "TDK SAMD Boards",
+          "architecture": "samd",
+          "version": "0.0.5",
+          "category": "TDK",
+          "url": "file://C:/TDK-samd-0.0.5.tar.gz",
+          "archiveFileName": "TDK-samd-0.0.5.tar.gz",
+          "checksum": "SHA-256:185218DF006E3B91E3410895F2BAC4BB9479B50836C899C4586A1E84FBA731E3",
+          "size": "1185807",
+          "help": {
+            "online": "https://www.jp.tdk.com/corp/ja/contact/index.htm"
+          },
+          "boards": [
+            {
+              "name": "TDK Diamond Seeds"
+            }
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "TDK SAMD Boards",
+          "architecture": "samd",
           "version": "0.1.0",
           "category": "TDK",
-          "url": "https://github.com/kanaya281264139/test/raw/master/TST-samd-0.1.0.tar.gz",
+          "url": "https://github.com/kanaya281264139/test/blob/master/package_TST_index.json",
           "archiveFileName": "TST-samd-0.1.0.tar.gz",
           "checksum": "SHA-256:140AC045054651A4D27072D7263F6D9472318F1242C6567286C6CCDE98AF0125",
           "size": "523409",
